@@ -1,0 +1,13 @@
+pandas
+numpy 
+scikit-learn
+seaborn
+matplot
+missingno
+mlflow
+tensorflow
+keras
+catboost
+lightgbm
+mage
+django
