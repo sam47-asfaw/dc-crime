@@ -5,8 +5,6 @@ seaborn
 matplot
 missingno
 mlflow
-tensorflow
-keras
 catboost
 lightgbm
 mage
